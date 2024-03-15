@@ -1,0 +1,42 @@
+.col {
+  border: 1px solid black;
+  width: 100%;
+  margin: 20px;
+  border-radius: 15px;
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 10px; /* Added padding for better spacing */
+}
+
+.kk {
+  width: 60px;
+  height: 60px;
+  background-color: orange;
+  border-radius: 50%; /* Changed border-radius to make it circular */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px; /* Added margin-bottom for spacing */
+}
+
+.kk h2 {
+  margin: 0; /* Removed default margin for h2 */
+}
+
+.img88 {
+  width: 30px;
+  height: 30px;
+}
+
+.pk {
+  font-family: sans-serif;
+  font-size: 20px; /* Reduced font size for better readability */
+  margin-bottom: 10px; /* Added margin-bottom for spacing */
+}
+
+.pr {
+  display: flex;
+  align-items: center; /* Center align items */
+}
